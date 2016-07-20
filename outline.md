@@ -29,6 +29,8 @@
   - Caleb was building a button that locked in prices for an order
 - Excel clone
   - Had to work with clients to establish a reasonable middle ground
+- Offline DB App
+  - AWS lambda, service workers as a DNS Proxy, cache all POST data and cached GET requests ot make it seem like you're online
 
 ### AIS Technologies
 
