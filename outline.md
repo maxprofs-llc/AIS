@@ -15,6 +15,7 @@
   - Customize user interactions with QuickBase
     - Replicate client forms to upload information to QuickBase
     - Produce applications that provide a comfortable UI/UX layer for QuickBase
+    - Customize database functionality, sometimes working with existing db scheme and sometimes adding to it 
 
 ### AIS Roles
 
@@ -32,6 +33,8 @@
 ### AIS Technologies
 
 - Primarily JavaScript
+- Emphasis on building JS modules--individual features that can be plugged into various projects 
+  - eg drag and drop file uploader
 - Work with clients in their language/stack of choice
 - Worked with a client to implement PHP scripts in word documents
 
@@ -43,12 +46,15 @@
   - HTML
   - CSS
   - JS
+- Strategy to have work as much client-side as possible to cut down on serving and maintaining from AIS end
 
 ### AIS Development Process
 
-- No Git/GitHub
+- No Git/GitHub (very little?)
 - Optional Code Review
 - Work on Master
+- No development environment; changes made in production env
+- little to no TDD
 
 ### Realities of Life as a Junior Dev
 
@@ -56,6 +62,8 @@
 - Can spend lots of time working on things that people take for granted (like a button)
 - Can also tackle some interesting projects
 - Important to find the parts of a project that interest you
+- Flexibility to customize workflow
+- Mostly independent work 
 
 ### Working After Turing
 
